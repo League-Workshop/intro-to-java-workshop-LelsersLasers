@@ -38,7 +38,7 @@ public class PacIshAttempt implements KeyEventDispatcher{
 					System.out.print("O");
 				}
 				else if(x == coinX && y == coinY) {
-					System.out.print("C");
+//					System.out.print("C");
 				}
 				else if (x<18 && y == 1) {
 					System.out.print("#");
